@@ -1,0 +1,6 @@
+Git is avertion control system.
+using git we can collaborate,track changes,revert to source code.
+Linux developer developed GIT in 2005(Linux Torvals).
+Microsoft owns Github.
+Github is a online hosting service for GIT files
+Using GIthub we can collaborate with others developers from any location
